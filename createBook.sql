@@ -1,0 +1,21 @@
+-- create book data
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (4, 'To Kill a Mockingbird', 'Harper Lee', '1960-01-01', '8423719316974', 14.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (5, '1984', 'George Orwell', '1949-06-08', '4328157810102', 9.99, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (6, 'Animal Farm', 'George Orwell', '1945-08-17', '9463503079917', 9.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (7, 'The Kite Runner', 'Khaled Hosseini', '2003-05-29', '4975051575971', 11.00, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (8, 'A Thousand Splendid Suns', 'Khaled Hosseini', '2007-05-22', '6038244393246', 11.99, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (9, 'The Five People You Meet in Heaven', 'Mitch Albom', '2003-09-23', '1282253488350', 14.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (10, 'Fahrenheit 451', 'Ray Bradbury', '1953-10-19', '5432126671898', 10.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (11, 'The Catcher in the Rye', 'J.D. Salinger', '1951-07-16', '3993550297877', 12.99, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (12, 'Their Eyes Were Watching God', 'Zora Neale Hurston', '1937-09-18', '5925398927892', 11.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (13, 'Lord of the Flies', 'William Golding', '1954-09-17', '1075063202969', 9.99, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (14, 'Charlottes Web', 'E.B. White', '1952-10-15', '9628848048911', 12.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (15, 'A Wrinkle in Time', 'Madeleine L Engle', '1962-01-01', '6151484607635', 10.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (16, 'The Giving Tree', 'Shel Silverstein', '1964-01-01', '6876206856834', 8.99, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (17, 'The Alchemist', 'Paulo Coelho', '1988-01-01', '7388562419050', 15.99, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (18, 'The Outsiders', 'S.E. Hinton', '1964-04-24', '0267548867087', 9.99, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (19, 'All Quiet on the Western Front', 'Erich Maria Remarque', '1928-01-01', '3478319420434', 11.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (20, 'The Joy Luck Club', 'Amy Tan', '1989-01-01', '7122883445613', 12.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (21, 'Flowers for Algernon', 'Daniel Keyes', '1959-04-01', '5987668678898', 10.99, 0);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (22, 'The Lion, the Witch and the Wardrobe', 'C.S. Lewis', '1950-10-16', '1409639166377', 14.99, 1);
+insert into Book (bookID, Title, Author, DatePublished, ISBN, Price, isAvailable) values (23, 'The Things They Carried', 'Tim O Brien', '1990-03-28', '4129307347350', 12.99, 0);
